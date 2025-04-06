@@ -26,5 +26,5 @@ from shortzy import Shortzy
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)
 
- BTN_URL_REGEX = re.compile(
+BTN_URL_REGEX = re.compile(
     r"(\[([^\[]*)\]\((.*?)\))"
