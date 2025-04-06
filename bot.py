@@ -1,12 +1,11 @@
 import logging
 import logging.config
-# Credit @LazyDeveloper.
-# Please Don't remove credit.
-# Born to make history @LazyDeveloper !
-# Thank you LazyDeveloper for helping us in this Journey
-# 🥰  Thank you for giving me credit @LazyDeveloperr  🥰
-# for any error please contact me -> telegram@LazyDeveloperr or insta @LazyDeveloperr 
-# rip paid developers 🤣 - >> No need to buy paid source code while @LazyDeveloperr is here 😍😍
+# Credit @RushikeshNarule777.
+# Born to make history @RushikeshNarule777 !
+# Thank you RushikeshNarule777 for helping us in this Journey
+# 🥰  Thank you for giving me credit @RushikeshNarule777  🥰
+# for any error please contact me -> telegram@RushikeshNarule777 or insta @RushikeshNarule777 
+# rip paid developers 🤣 - >> No need to buy paid source code while @RushikeshNarule777 is here 😍😍
 # Get logging configurations
 logging.config.fileConfig('logging.conf')
 logging.getLogger().setLevel(logging.INFO)
