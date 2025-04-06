@@ -27,4 +27,4 @@ logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)
 
  BTN_URL_REGEX = re.compile(
-30|     r"(\[([^\[]*)\]\((.*?)\))"
+    r"(\[([^\[]*)\]\((.*?)\))"
